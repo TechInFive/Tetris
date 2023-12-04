@@ -32,7 +32,9 @@ python main.py
 
 ## Credits & Acknowledgments 👏
 
-- The YouTube tutorial of this game is [Tetris Core Algorithm Explained: Python & PyGame in 5 Minutes!](https://youtu.be/IbmU7PORDKw).
-
+- The YouTube tutorials of this game:
+- [Tetris Core Algorithm Explained: Python & PyGame in 5 Minutes!](https://youtu.be/IbmU7PORDKw).
+- [Enhance Tetris Game with Python & PyGame: Discover How in 5 Minutes!](https://youtu.be/h0bMr218Gfk).
+ 
 
 
